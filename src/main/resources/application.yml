@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mariadb://13.209.111.60:3306/mytest
+    url: jdbc:mariadb://3.35.113.183:3306/htest
     username: root
     password: 1234
     driver-class-name: org.mariadb.jdbc.Driver
